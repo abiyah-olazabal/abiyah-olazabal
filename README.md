@@ -1,7 +1,11 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20864934/112645749-933b4000-8e25-11eb-8fc6-5c57c5e6e1ba.jpg" alt="Banner de Abiyah Olazabal" width="100%">
+</p>
 <h1 align="center">¡Hola! Soy Abiyah Olazabal ✨ </h1> 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abiyaholazabal/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+  <a href="https://www.linkedin.com/in/abiyaholazabal/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abiyah-olazabal"/></a>
 <a href = "mailto:abiyah.olazabalc@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@abiyah-olazabal"  /></a>
   </p>
 <br>
